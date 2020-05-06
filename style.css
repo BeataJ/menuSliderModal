@@ -9,3 +9,8 @@
 * {
   box-sizing: border-box;
 }
+
+body {
+  font-family: 'Leto', sans-serif;
+  margin: 0;
+}
