@@ -13,6 +13,12 @@
 body {
   font-family: 'Leto', sans-serif;
   margin: 0;
+  transition: transform .3 ease;
+}
+
+body.show-nav {
+  /* Width of nav */
+  transform: translateX(200px);
 }
 
 nav {
